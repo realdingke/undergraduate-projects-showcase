@@ -1,4 +1,4 @@
-Below are the codeskulptor links for practices of Module 1 of the course:
+Below are the codeskulptor links for practices of Module 1 of the specialisation:
 
 https://py3.codeskulptor.org/#user303_Qg5Dn32AKr_1.py
 https://py3.codeskulptor.org/#exercises3_fn_print_digits_template.py
