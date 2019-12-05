@@ -1,5 +1,6 @@
 Welcome to the Deep Reinforcement Learning Obstacle Avoidance for Marine Vessels project!
 This is my third year individual project expected to be completed before March 2020.
+This directory contain all the programming work done thus far related to this project.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
