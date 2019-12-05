@@ -1,0 +1,9 @@
+Welcome to the Deep Reinforcement Learning Obstacle Avoidance for Marine Vessels project!
+This is my third year individual project expected to be completed before March 2020.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Within this directory you should be able to find:
+(1) The project proposal
+(2) A gridworld obstacle avoidance simulation algorithm for a Q learning & Expected Sarsa agent
