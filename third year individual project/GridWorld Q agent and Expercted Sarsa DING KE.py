@@ -181,14 +181,14 @@ class Q_agent():
 
         
 
-if __name__=="__main__":
-    testq=Q_agent()
-    testq.agent_steps(50000)
-    #print('current Q values:',testq.q_values,'\n')
-    print("agent's current path:\n")
-    for state,action in testq.trace:
-        Env(state).showgrid()
-        print(action)
+# if __name__=="__main__":
+#     testq=Q_agent()
+#     testq.agent_steps(50000)
+#     #print('current Q values:',testq.q_values,'\n')
+#     print("agent's current path:\n")
+#     for state,action in testq.trace:
+#         Env(state).showgrid()
+#         print(action)
                         
  
  
