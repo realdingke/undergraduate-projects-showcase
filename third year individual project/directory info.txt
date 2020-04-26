@@ -10,6 +10,9 @@ Within this directory you should be able to find:
 (2) A gridworld obstacle avoidance simulation algorithm for a Q learning & Expected Sarsa agent
 (3) A jupyter test file for the above algorithm, with produced outcomes and analysis
 --------------------------------------------------------------------------------------------------
+**update 20/03/2020**
+add the file test2py (a complete summary file contains most of the classes and functions for the project)
+
 **update 26/04/2020** 
 add the file test3py (a complete summary file contains most of the classes and functions for the project)
 add the file testplotpy (a file contains all the codes for plotting and analysis for the project)
