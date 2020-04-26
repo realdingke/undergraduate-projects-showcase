@@ -16,3 +16,8 @@ add the file test2py (a complete summary file contains most of the classes and f
 **update 26/04/2020** 
 add the file test3py (a complete summary file contains most of the classes and functions for the project)
 add the file testplotpy (a file contains all the codes for plotting and analysis for the project)
+
+
+
+
+I declare that all files uploaded above are work of my own. 
