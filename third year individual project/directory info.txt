@@ -9,3 +9,6 @@ Within this directory you should be able to find:
 (1) The project proposal
 (2) A gridworld obstacle avoidance simulation algorithm for a Q learning & Expected Sarsa agent
 (3) A jupyter test file for the above algorithm, with produced outcomes and analysis
+--------------------------------------------------------------------------------------------------
+**update 26/04/2020** 
+add the file test2py (a complete summary file contains most of the classes and functions for the project)
