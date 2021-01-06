@@ -9,8 +9,8 @@ import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
-from environment import Env, generate_env_randomly
-from model import DQNModel, get_input_state, get_estimated_qvals, get_n_step_estimated_qvals, \
+from dqn_env import Env, generate_env_randomly
+from dqn_model import DQNModel, get_input_state, get_estimated_qvals, get_n_step_estimated_qvals, \
      choose_action, train_step, train_step_v0, eval_step, eval_step_v0, extend_input_state
 from buffer import ReplayBuffer
 
